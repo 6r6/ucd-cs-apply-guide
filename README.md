@@ -2,13 +2,9 @@
 description: MSc Computer Science (Conversion)
 ---
 
-# 都柏林大学学院 计算机科学T195 申请指南
+# 🇮🇪 申请指南
 
 
-
-{% hint style="info" %}
-**提示:** 部分内容源自本人回忆，可能略有错误，或者无法举证。欢迎大家补充和订
-{% endhint %}
 
 #### 项目花销
 
@@ -42,7 +38,7 @@ description: MSc Computer Science (Conversion)
 
 补考。
 
-#### 需要填写的内容
+#### 申请表需要填写的内容
 
 * 姓名
 * 出生年月日
